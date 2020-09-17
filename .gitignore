@@ -2,6 +2,7 @@
 # Especificamos lo que no queremos que se suba al repositorio
 #*.xlsx
 PROF_*
+*.DS_Store
 *checkpoint.ipynb
 .ipynb_checkpoints
 **/*.ipynb_checkpoints/
